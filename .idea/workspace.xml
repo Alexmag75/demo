@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="490da369-b7c3-4d80-9307-55118594440f" name="Changes" comment="">
+    <list default="true" id="490da369-b7c3-4d80-9307-55118594440f" name="Changes" comment="начало">
       <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -50,11 +53,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1744294195289</updated>
-      <workItem from="1744294196509" duration="317000" />
+      <workItem from="1744294196509" duration="678000" />
     </task>
+    <task id="LOCAL-00001" summary="начало">
+      <option name="closed" value="true" />
+      <created>1744294732571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744294732571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="начало" />
+    <option name="LAST_COMMIT_MESSAGE" value="начало" />
   </component>
 </project>
